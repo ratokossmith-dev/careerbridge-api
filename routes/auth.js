@@ -18,7 +18,14 @@ router.post('/register', async (req, res, next) => {
       createdAt: new Date().toISOString(),
     });
 
-    res.status(201).json({ success: true, message: 'Account created successfully', uid: userRecord.uid });
+    const token = await auth.createCustomToken(userRecord.uid);
+
+    res.status(201).json({
+      success: true,
+      message: 'Account created successfully',
+      uid: userRecord.uid,
+      token,
+    });
   } catch (error) {
     next(error);
   }
@@ -28,7 +35,8 @@ router.post('/login', async (req, res, next) => {
   try {
     const { email } = req.body;
     const user = await auth.getUserByEmail(email);
-    res.status(200).json({ success: true, uid: user.uid });
+    const token = await auth.createCustomToken(user.uid);
+    res.status(200).json({ success: true, uid: user.uid, token });
   } catch (error) {
     next(error);
   }
