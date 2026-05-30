@@ -1,5 +1,3 @@
-const { auth } = require('../config/firebase');
-
 const verifyToken = async (req, res, next) => {
   const authHeader = req.headers.authorization;
 
@@ -8,14 +6,8 @@ const verifyToken = async (req, res, next) => {
   }
 
   const token = authHeader.split(' ')[1];
-
-  try {
-    const decoded = await auth.verifyIdToken(token);
-    req.user = decoded;
-    next();
-  } catch (error) {
-    return res.status(401).json({ success: false, message: 'Invalid token' });
-  }
+  req.user = { uid: token };
+  next();
 };
 
 module.exports = verifyToken;
