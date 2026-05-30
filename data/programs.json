@@ -1,0 +1,236 @@
+[
+  {
+    "id": "nul-bsc-nursing",
+    "name": "Bachelor of Science in Nursing",
+    "institutionId": "nul",
+    "institutionName": "National University of Lesotho",
+    "faculty": "Faculty of Health Sciences",
+    "duration": "4 years",
+    "category": "Health",
+    "description": "Prepares students for professional nursing practice in hospitals, clinics, and community health settings.",
+    "careerOutcomes": ["Registered Nurse", "Community Health Nurse", "Hospital Nurse"],
+    "requirements": [
+      { "subject": "English", "minimumGrade": "C" },
+      { "subject": "Biology", "minimumGrade": "C" },
+      { "subject": "Chemistry", "minimumGrade": "C" },
+      { "subject": "Mathematics", "minimumGrade": "D" }
+    ]
+  },
+  {
+    "id": "nul-mbchb",
+    "name": "Bachelor of Medicine and Surgery (MBChB)",
+    "institutionId": "nul",
+    "institutionName": "National University of Lesotho",
+    "faculty": "Faculty of Health Sciences",
+    "duration": "6 years",
+    "category": "Health",
+    "description": "A rigorous medical degree producing qualified doctors for Lesotho and the region.",
+    "careerOutcomes": ["Medical Doctor", "General Practitioner", "Specialist"],
+    "requirements": [
+      { "subject": "English", "minimumGrade": "B" },
+      { "subject": "Biology", "minimumGrade": "B" },
+      { "subject": "Chemistry", "minimumGrade": "B" },
+      { "subject": "Mathematics", "minimumGrade": "C" },
+      { "subject": "Physics", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "nul-bsc-cs",
+    "name": "Bachelor of Science in Computer Science",
+    "institutionId": "nul",
+    "institutionName": "National University of Lesotho",
+    "faculty": "Faculty of Science and Technology",
+    "duration": "4 years",
+    "category": "Technology",
+    "description": "Covers programming, algorithms, data structures, software engineering, and computer systems.",
+    "careerOutcomes": ["Software Developer", "Systems Analyst", "Database Administrator"],
+    "requirements": [
+      { "subject": "Mathematics", "minimumGrade": "B" },
+      { "subject": "English", "minimumGrade": "C" },
+      { "subject": "Physics", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "nul-llb",
+    "name": "Bachelor of Laws (LLB)",
+    "institutionId": "nul",
+    "institutionName": "National University of Lesotho",
+    "faculty": "Faculty of Law",
+    "duration": "4 years",
+    "category": "Law",
+    "description": "A professional law degree covering constitutional, criminal, civil, and commercial law.",
+    "careerOutcomes": ["Lawyer", "Magistrate", "Legal Advisor", "Prosecutor"],
+    "requirements": [
+      { "subject": "English", "minimumGrade": "B" },
+      { "subject": "Mathematics", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "nul-bed",
+    "name": "Bachelor of Education",
+    "institutionId": "nul",
+    "institutionName": "National University of Lesotho",
+    "faculty": "Faculty of Education",
+    "duration": "4 years",
+    "category": "Education",
+    "description": "Trains secondary school teachers with strong subject knowledge and pedagogy.",
+    "careerOutcomes": ["Secondary School Teacher", "Education Officer", "Curriculum Developer"],
+    "requirements": [
+      { "subject": "English", "minimumGrade": "C" },
+      { "subject": "Mathematics", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "nul-bsc-agriculture",
+    "name": "Bachelor of Science in Agriculture",
+    "institutionId": "nul",
+    "institutionName": "National University of Lesotho",
+    "faculty": "Faculty of Agriculture",
+    "duration": "4 years",
+    "category": "Agriculture",
+    "description": "Focuses on crop science, animal husbandry, soil science, and agricultural economics.",
+    "careerOutcomes": ["Agricultural Officer", "Farm Manager", "Agricultural Researcher"],
+    "requirements": [
+      { "subject": "Biology", "minimumGrade": "C" },
+      { "subject": "Chemistry", "minimumGrade": "C" },
+      { "subject": "English", "minimumGrade": "C" },
+      { "subject": "Mathematics", "minimumGrade": "D" }
+    ]
+  },
+  {
+    "id": "lce-diploma-primary",
+    "name": "Diploma in Primary Education",
+    "institutionId": "lce",
+    "institutionName": "Lesotho College of Education",
+    "faculty": "Primary Education",
+    "duration": "3 years",
+    "category": "Education",
+    "description": "Prepares teachers for primary school classrooms with practical teaching skills.",
+    "careerOutcomes": ["Primary School Teacher", "Education Support Officer"],
+    "requirements": [
+      { "subject": "English", "minimumGrade": "C" },
+      { "subject": "Mathematics", "minimumGrade": "D" }
+    ]
+  },
+  {
+    "id": "lce-diploma-secondary",
+    "name": "Diploma in Secondary Education",
+    "institutionId": "lce",
+    "institutionName": "Lesotho College of Education",
+    "faculty": "Secondary Education",
+    "duration": "3 years",
+    "category": "Education",
+    "description": "Trains teachers for secondary school level with subject specialisation.",
+    "careerOutcomes": ["Secondary School Teacher", "Subject Head of Department"],
+    "requirements": [
+      { "subject": "English", "minimumGrade": "C" },
+      { "subject": "Mathematics", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "luct-bsc-it",
+    "name": "Bachelor of Science in Information Technology",
+    "institutionId": "luct",
+    "institutionName": "Lesotho University of Contemporary Technology",
+    "faculty": "Faculty of Information Technology",
+    "duration": "3 years",
+    "category": "Technology",
+    "description": "Covers networking, software development, cybersecurity, and IT management.",
+    "careerOutcomes": ["IT Support Specialist", "Network Engineer", "Web Developer"],
+    "requirements": [
+      { "subject": "Mathematics", "minimumGrade": "C" },
+      { "subject": "English", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "luct-bcom",
+    "name": "Bachelor of Commerce",
+    "institutionId": "luct",
+    "institutionName": "Lesotho University of Contemporary Technology",
+    "faculty": "Faculty of Business",
+    "duration": "3 years",
+    "category": "Business",
+    "description": "Covers accounting, finance, marketing, and business management.",
+    "careerOutcomes": ["Accountant", "Business Analyst", "Marketing Manager"],
+    "requirements": [
+      { "subject": "Mathematics", "minimumGrade": "C" },
+      { "subject": "English", "minimumGrade": "C" },
+      { "subject": "Accounting", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "limkokwing-graphic-design",
+    "name": "Bachelor of Arts in Graphic Design",
+    "institutionId": "limkokwing",
+    "institutionName": "Limkokwing University of Creative Technology",
+    "faculty": "Faculty of Design Innovation",
+    "duration": "3 years",
+    "category": "Creative Arts",
+    "description": "Develops creative skills in visual communication, branding, digital media, and design thinking.",
+    "careerOutcomes": ["Graphic Designer", "Brand Designer", "UI/UX Designer"],
+    "requirements": [
+      { "subject": "English", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "limkokwing-ict",
+    "name": "Bachelor of Science in Information and Communication Technology",
+    "institutionId": "limkokwing",
+    "institutionName": "Limkokwing University of Creative Technology",
+    "faculty": "Faculty of Information and Communication Technology",
+    "duration": "3 years",
+    "category": "Technology",
+    "description": "Combines technology and communication skills for the digital economy.",
+    "careerOutcomes": ["ICT Officer", "Systems Administrator", "Tech Entrepreneur"],
+    "requirements": [
+      { "subject": "Mathematics", "minimumGrade": "C" },
+      { "subject": "English", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "botho-bba",
+    "name": "Bachelor of Business Administration",
+    "institutionId": "botho",
+    "institutionName": "Botho University",
+    "faculty": "Faculty of Business and Accounting",
+    "duration": "3 years",
+    "category": "Business",
+    "description": "A practical business degree covering management, entrepreneurship, and organisational behaviour.",
+    "careerOutcomes": ["Business Manager", "Entrepreneur", "Operations Manager"],
+    "requirements": [
+      { "subject": "English", "minimumGrade": "C" },
+      { "subject": "Mathematics", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "botho-bsc-computing",
+    "name": "Bachelor of Science in Computing",
+    "institutionId": "botho",
+    "institutionName": "Botho University",
+    "faculty": "Faculty of Computing",
+    "duration": "3 years",
+    "category": "Technology",
+    "description": "Focuses on software development, data management, and computing systems.",
+    "careerOutcomes": ["Software Engineer", "Data Analyst", "IT Consultant"],
+    "requirements": [
+      { "subject": "Mathematics", "minimumGrade": "C" },
+      { "subject": "English", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "botho-bsc-health",
+    "name": "Bachelor of Science in Health Sciences",
+    "institutionId": "botho",
+    "institutionName": "Botho University",
+    "faculty": "Faculty of Health Sciences",
+    "duration": "4 years",
+    "category": "Health",
+    "description": "Prepares students for health management and public health roles.",
+    "careerOutcomes": ["Health Officer", "Public Health Specialist", "Health Administrator"],
+    "requirements": [
+      { "subject": "Biology", "minimumGrade": "C" },
+      { "subject": "English", "minimumGrade": "C" },
+      { "subject": "Mathematics", "minimumGrade": "D" }
+    ]
+  }
+]

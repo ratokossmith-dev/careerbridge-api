@@ -1,0 +1,31 @@
+const express = require('express');
+const router = express.Router();
+const { db } = require('../config/firebase');
+const verifyToken = require('../middleware/auth');
+
+router.post('/', verifyToken, async (req, res, next) => {
+  try {
+    const { userId, universityId, universityName, subject, message } = req.body;
+    const ref = await db.collection('enquiries').add({
+      userId, universityId, universityName, subject, message,
+      sentAt: new Date().toISOString(),
+      status: 'pending',
+    });
+    res.status(201).json({ success: true, message: 'Enquiry sent', id: ref.id });
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.get('/:userId', verifyToken, async (req, res, next) => {
+  try {
+    const snapshot = await db.collection('enquiries')
+      .where('userId', '==', req.params.userId).get();
+    const data = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+    res.status(200).json({ success: true, data });
+  } catch (error) {
+    next(error);
+  }
+});
+
+module.exports = router;

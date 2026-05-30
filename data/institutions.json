@@ -1,0 +1,82 @@
+[
+  {
+    "id": "nul",
+    "name": "National University of Lesotho",
+    "shortName": "NUL",
+    "location": "Roma, Maseru",
+    "website": "https://www.nul.ls",
+    "email": "registrar@nul.ls",
+    "phone": "+266 2234 0601",
+    "description": "The National University of Lesotho is the only national university in Lesotho, offering undergraduate and postgraduate programs across multiple faculties.",
+    "faculties": [
+      "Faculty of Science and Technology",
+      "Faculty of Social Sciences",
+      "Faculty of Education",
+      "Faculty of Law",
+      "Faculty of Health Sciences",
+      "Faculty of Humanities",
+      "Faculty of Agriculture"
+    ]
+  },
+  {
+    "id": "lce",
+    "name": "Lesotho College of Education",
+    "shortName": "LCE",
+    "location": "Maseru",
+    "website": "https://www.lce.ac.ls",
+    "email": "info@lce.ac.ls",
+    "phone": "+266 2231 2880",
+    "description": "Lesotho College of Education trains primary and secondary school teachers and offers education diploma programs.",
+    "faculties": [
+      "Primary Education",
+      "Secondary Education",
+      "Special Education"
+    ]
+  },
+  {
+    "id": "luct",
+    "name": "Lesotho University of Contemporary Technology",
+    "shortName": "LUCT",
+    "location": "Maseru",
+    "website": "https://www.luct.ac.ls",
+    "email": "info@luct.ac.ls",
+    "phone": "+266 2231 6000",
+    "description": "LUCT focuses on technology, business, and creative programs for the modern workforce.",
+    "faculties": [
+      "Faculty of Information Technology",
+      "Faculty of Business",
+      "Faculty of Creative Arts"
+    ]
+  },
+  {
+    "id": "limkokwing",
+    "name": "Limkokwing University of Creative Technology",
+    "shortName": "Limkokwing",
+    "location": "Maseru",
+    "website": "https://www.limkokwing.ac.ls",
+    "email": "lesotho@limkokwing.edu.my",
+    "phone": "+266 2231 7000",
+    "description": "Limkokwing offers creative, design, communication, and technology programs in a globally connected environment.",
+    "faculties": [
+      "Faculty of Design Innovation",
+      "Faculty of Communication Media and Broadcasting",
+      "Faculty of Business and Globalisation",
+      "Faculty of Information and Communication Technology"
+    ]
+  },
+  {
+    "id": "botho",
+    "name": "Botho University",
+    "shortName": "Botho",
+    "location": "Maseru",
+    "website": "https://www.bothouniversity.ac.ls",
+    "email": "lesotho@bothouniversity.ac.bw",
+    "phone": "+266 2231 8000",
+    "description": "Botho University offers business, IT, and health science programs with a strong focus on employability.",
+    "faculties": [
+      "Faculty of Business and Accounting",
+      "Faculty of Computing",
+      "Faculty of Health Sciences"
+    ]
+  }
+]

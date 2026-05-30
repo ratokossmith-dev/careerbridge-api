@@ -1,0 +1,62 @@
+[
+  {
+    "id": "faq-1",
+    "keywords": ["apply", "application", "how to apply", "admission", "admissions"],
+    "answer": "To apply to a university in Lesotho, visit the institution's official website or admissions office. You will need your LGCSE results, a certified copy of your ID, passport photos, and an application fee. NUL applications are done at Roma campus or online at nul.ls. LCE, LUCT, Limkokwing, and Botho have their own application portals."
+  },
+  {
+    "id": "faq-2",
+    "keywords": ["lgcse", "grades", "grading", "results", "cosc", "grade"],
+    "answer": "LGCSE grades range from A* (highest) to U (ungraded). A* and A are distinction level. B and C are credit passes. D and E are passes. U means ungraded and is not accepted for entry. Most university programs require a minimum of 5 passes including English and Mathematics."
+  },
+  {
+    "id": "faq-3",
+    "keywords": ["nul", "national university", "roma"],
+    "answer": "The National University of Lesotho (NUL) is located in Roma, about 35km from Maseru. It is Lesotho's main university offering degrees in Health Sciences, Law, Education, Science, Agriculture, Humanities, and Social Sciences. Contact: registrar@nul.ls or +266 2234 0601."
+  },
+  {
+    "id": "faq-4",
+    "keywords": ["lce", "college of education", "teacher", "teaching"],
+    "answer": "The Lesotho College of Education (LCE) trains primary and secondary school teachers. It offers 3-year diploma programs. You need at least 5 LGCSE passes including English to qualify. Contact: info@lce.ac.ls or +266 2231 2880."
+  },
+  {
+    "id": "faq-5",
+    "keywords": ["luct", "contemporary technology"],
+    "answer": "LUCT offers programs in Information Technology, Business, and Creative Arts. It is located in Maseru and is known for practical, career-focused education. Contact: info@luct.ac.ls or +266 2231 6000."
+  },
+  {
+    "id": "faq-6",
+    "keywords": ["limkokwing", "design", "creative", "media"],
+    "answer": "Limkokwing University in Maseru specialises in creative programs including Graphic Design, Media, Communication, Business, and ICT. It is part of a global network of Limkokwing campuses. Contact: lesotho@limkokwing.edu.my or +266 2231 7000."
+  },
+  {
+    "id": "faq-7",
+    "keywords": ["botho", "botho university"],
+    "answer": "Botho University offers Business, Computing, and Health Sciences programs. It has campuses across southern Africa and is known for strong graduate employability. Contact: lesotho@bothouniversity.ac.bw or +266 2231 8000."
+  },
+  {
+    "id": "faq-8",
+    "keywords": ["bursary", "bursaries", "scholarship", "funding", "financial aid", "fees"],
+    "answer": "Several bursaries are available for Lesotho students. The Lesotho Government offers the National Manpower Development Secretariat (NMDS) bursary for qualifying students. You can apply through the NMDS office in Maseru. Some universities also offer merit-based scholarships. Contact your school guidance counsellor for more information."
+  },
+  {
+    "id": "faq-9",
+    "keywords": ["career", "careers", "job", "jobs", "what can i do", "what career"],
+    "answer": "Your LGCSE subjects and grades determine which university programs you qualify for, which in turn shapes your career options. Use the Career Explorer in this app to browse careers by category such as Health, Technology, Law, Education, Business, and Agriculture. Enter your grades to see which programs you qualify for."
+  },
+  {
+    "id": "faq-10",
+    "keywords": ["mathematics", "maths", "math", "fail maths", "no maths"],
+    "answer": "Mathematics is required for most Science, Technology, and Business programs. If you did not pass Mathematics, you may still qualify for programs in Education, Humanities, Creative Arts, and some Social Science programs. Check the requirements for each program in the app."
+  },
+  {
+    "id": "faq-11",
+    "keywords": ["duration", "how long", "years", "how many years"],
+    "answer": "Program durations vary. Diplomas typically take 2 to 3 years. Bachelor degrees take 3 to 4 years. Medicine (MBChB) takes 6 years. Postgraduate programs add 1 to 2 years on top of the undergraduate degree."
+  },
+  {
+    "id": "faq-12",
+    "keywords": ["deadline", "closing date", "when to apply", "application date"],
+    "answer": "Application deadlines differ by institution. NUL typically opens applications between July and September for the following academic year. LCE, LUCT, Limkokwing, and Botho have their own timelines. It is recommended to apply as early as possible. Contact the specific institution for exact closing dates."
+  }
+]
