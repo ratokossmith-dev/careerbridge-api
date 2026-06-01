@@ -34,22 +34,23 @@
     ]
   },
   {
-    "id": "luct",
-    "name": "Lesotho University of Contemporary Technology",
-    "shortName": "LUCT",
+    "id": "lpi",
+    "name": "Lerotholi Polytechnic Institute",
+    "shortName": "LPI",
     "location": "Maseru",
-    "website": "https://www.luct.ac.ls",
-    "email": "info@luct.ac.ls",
-    "phone": "+266 2231 6000",
-    "description": "LUCT focuses on technology, business, and creative programs for the modern workforce.",
+    "website": "https://www.lpi.ac.ls",
+    "email": "info@lpi.ac.ls",
+    "phone": "+266 2231 2249",
+    "description": "Lerotholi Polytechnic Institute is Lesotho's leading technical and vocational institution, offering practical engineering, architecture, and business programs.",
     "faculties": [
+      "Faculty of Engineering",
+      "Faculty of Architecture and Built Environment",
       "Faculty of Information Technology",
-      "Faculty of Business",
-      "Faculty of Creative Arts"
+      "Faculty of Business Studies"
     ]
   },
   {
-    "id": "limkokwing",
+    "id": "luct",
     "name": "Limkokwing University of Creative Technology",
     "shortName": "Limkokwing",
     "location": "Maseru",

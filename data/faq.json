@@ -2,7 +2,7 @@
   {
     "id": "faq-1",
     "keywords": ["apply", "application", "how to apply", "admission", "admissions"],
-    "answer": "To apply to a university in Lesotho, visit the institution's official website or admissions office. You will need your LGCSE results, a certified copy of your ID, passport photos, and an application fee. NUL applications are done at Roma campus or online at nul.ls. LCE, LUCT, Limkokwing, and Botho have their own application portals."
+    "answer": "To apply to a university in Lesotho, visit the institution's official website or admissions office. You will need your LGCSE results, a certified copy of your ID, passport photos, and an application fee. NUL applications are done at Roma campus or online at nul.ls. LCE, LPI, Limkokwing, and Botho have their own application portals."
   },
   {
     "id": "faq-2",
@@ -21,12 +21,12 @@
   },
   {
     "id": "faq-5",
-    "keywords": ["luct", "contemporary technology"],
-    "answer": "LUCT offers programs in Information Technology, Business, and Creative Arts. It is located in Maseru and is known for practical, career-focused education. Contact: info@luct.ac.ls or +266 2231 6000."
+    "keywords": ["lpi", "lerotholi", "polytechnic", "engineering", "technical"],
+    "answer": "Lerotholi Polytechnic Institute (LPI) is Lesotho's leading technical institution offering diplomas in Civil Engineering, Electrical Engineering, Mechanical Engineering, Architecture, Information Technology, and Business Studies. Located in Maseru. Contact: info@lpi.ac.ls or +266 2231 2249."
   },
   {
     "id": "faq-6",
-    "keywords": ["limkokwing", "design", "creative", "media"],
+    "keywords": ["luct", "design", "creative", "media"],
     "answer": "Limkokwing University in Maseru specialises in creative programs including Graphic Design, Media, Communication, Business, and ICT. It is part of a global network of Limkokwing campuses. Contact: lesotho@limkokwing.edu.my or +266 2231 7000."
   },
   {
@@ -57,6 +57,6 @@
   {
     "id": "faq-12",
     "keywords": ["deadline", "closing date", "when to apply", "application date"],
-    "answer": "Application deadlines differ by institution. NUL typically opens applications between July and September for the following academic year. LCE, LUCT, Limkokwing, and Botho have their own timelines. It is recommended to apply as early as possible. Contact the specific institution for exact closing dates."
+    "answer": "Application deadlines differ by institution. NUL typically opens applications between July and September for the following academic year. LCE, LPI, Limkokwing, and Botho have their own timelines. It is recommended to apply as early as possible. Contact the specific institution for exact closing dates."
   }
 ]

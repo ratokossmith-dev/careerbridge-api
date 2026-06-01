@@ -128,40 +128,104 @@
     ]
   },
   {
-    "id": "luct-bsc-it",
-    "name": "Bachelor of Science in Information Technology",
-    "institutionId": "luct",
-    "institutionName": "Lesotho University of Contemporary Technology",
+    "id": "lpi-diploma-civil",
+    "name": "Diploma in Civil Engineering",
+    "institutionId": "lpi",
+    "institutionName": "Lerotholi Polytechnic Institute",
+    "faculty": "Faculty of Engineering",
+    "duration": "3 years",
+    "category": "Technology",
+    "description": "Covers structural engineering, construction materials, surveying, and project management for infrastructure development.",
+    "careerOutcomes": ["Civil Engineering Technician", "Construction Supervisor", "Site Engineer"],
+    "requirements": [
+      { "subject": "Mathematics", "minimumGrade": "C" },
+      { "subject": "Physics", "minimumGrade": "C" },
+      { "subject": "English", "minimumGrade": "D" }
+    ]
+  },
+  {
+    "id": "lpi-diploma-electrical",
+    "name": "Diploma in Electrical Engineering",
+    "institutionId": "lpi",
+    "institutionName": "Lerotholi Polytechnic Institute",
+    "faculty": "Faculty of Engineering",
+    "duration": "3 years",
+    "category": "Technology",
+    "description": "Covers electrical circuits, power systems, electronics, and industrial automation.",
+    "careerOutcomes": ["Electrical Technician", "Power Systems Engineer", "Maintenance Engineer"],
+    "requirements": [
+      { "subject": "Mathematics", "minimumGrade": "C" },
+      { "subject": "Physics", "minimumGrade": "C" },
+      { "subject": "English", "minimumGrade": "D" }
+    ]
+  },
+  {
+    "id": "lpi-diploma-mechanical",
+    "name": "Diploma in Mechanical Engineering",
+    "institutionId": "lpi",
+    "institutionName": "Lerotholi Polytechnic Institute",
+    "faculty": "Faculty of Engineering",
+    "duration": "3 years",
+    "category": "Technology",
+    "description": "Covers machine design, thermodynamics, manufacturing processes, and maintenance engineering.",
+    "careerOutcomes": ["Mechanical Technician", "Manufacturing Engineer", "Plant Maintenance Officer"],
+    "requirements": [
+      { "subject": "Mathematics", "minimumGrade": "C" },
+      { "subject": "Physics", "minimumGrade": "C" },
+      { "subject": "English", "minimumGrade": "D" }
+    ]
+  },
+  {
+    "id": "lpi-diploma-architecture",
+    "name": "Diploma in Architecture",
+    "institutionId": "lpi",
+    "institutionName": "Lerotholi Polytechnic Institute",
+    "faculty": "Faculty of Architecture and Built Environment",
+    "duration": "3 years",
+    "category": "Creative Arts",
+    "description": "Covers architectural design, building technology, urban planning, and construction drawing.",
+    "careerOutcomes": ["Architectural Technician", "Building Designer", "Urban Planner"],
+    "requirements": [
+      { "subject": "Mathematics", "minimumGrade": "C" },
+      { "subject": "English", "minimumGrade": "C" },
+      { "subject": "Art", "minimumGrade": "C" }
+    ]
+  },
+  {
+    "id": "lpi-diploma-it",
+    "name": "Diploma in Information Technology",
+    "institutionId": "lpi",
+    "institutionName": "Lerotholi Polytechnic Institute",
     "faculty": "Faculty of Information Technology",
     "duration": "3 years",
     "category": "Technology",
-    "description": "Covers networking, software development, cybersecurity, and IT management.",
-    "careerOutcomes": ["IT Support Specialist", "Network Engineer", "Web Developer"],
+    "description": "Covers networking, software development, database management, and cybersecurity fundamentals.",
+    "careerOutcomes": ["IT Technician", "Network Administrator", "Software Developer"],
     "requirements": [
       { "subject": "Mathematics", "minimumGrade": "C" },
       { "subject": "English", "minimumGrade": "C" }
     ]
   },
   {
-    "id": "luct-bcom",
-    "name": "Bachelor of Commerce",
-    "institutionId": "luct",
-    "institutionName": "Lesotho University of Contemporary Technology",
-    "faculty": "Faculty of Business",
-    "duration": "3 years",
+    "id": "lpi-diploma-business",
+    "name": "Diploma in Business Studies",
+    "institutionId": "lpi",
+    "institutionName": "Lerotholi Polytechnic Institute",
+    "faculty": "Faculty of Business Studies",
+    "duration": "2 years",
     "category": "Business",
-    "description": "Covers accounting, finance, marketing, and business management.",
-    "careerOutcomes": ["Accountant", "Business Analyst", "Marketing Manager"],
+    "description": "Covers business management, accounting principles, marketing, and entrepreneurship.",
+    "careerOutcomes": ["Business Administrator", "Entrepreneur", "Office Manager"],
     "requirements": [
-      { "subject": "Mathematics", "minimumGrade": "C" },
       { "subject": "English", "minimumGrade": "C" },
-      { "subject": "Accounting", "minimumGrade": "C" }
+      { "subject": "Mathematics", "minimumGrade": "C" },
+      { "subject": "Accounting", "minimumGrade": "D" }
     ]
   },
   {
-    "id": "limkokwing-graphic-design",
+    "id": "luct-graphic-design",
     "name": "Bachelor of Arts in Graphic Design",
-    "institutionId": "limkokwing",
+    "institutionId": "luct",
     "institutionName": "Limkokwing University of Creative Technology",
     "faculty": "Faculty of Design Innovation",
     "duration": "3 years",
@@ -173,9 +237,9 @@
     ]
   },
   {
-    "id": "limkokwing-ict",
+    "id": "luct-ict",
     "name": "Bachelor of Science in Information and Communication Technology",
-    "institutionId": "limkokwing",
+    "institutionId": "luct",
     "institutionName": "Limkokwing University of Creative Technology",
     "faculty": "Faculty of Information and Communication Technology",
     "duration": "3 years",
