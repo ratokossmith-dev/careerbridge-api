@@ -1,62 +1,152 @@
 [
   {
     "id": "faq-1",
-    "keywords": ["apply", "application", "how to apply", "admission", "admissions"],
-    "answer": "To apply to a university in Lesotho, visit the institution's official website or admissions office. You will need your LGCSE results, a certified copy of your ID, passport photos, and an application fee. NUL applications are done at Roma campus or online at nul.ls. LCE, LPI, Limkokwing, and Botho have their own application portals."
+    "keywords": ["apply", "application", "how to apply", "admission", "admissions", "apply for"],
+    "answer": "To apply to a university in Lesotho, visit the institution's official website or admissions office. You will need your LGCSE results, a certified copy of your national ID, two passport photos, and an application fee. NUL applications are done at Roma campus or online at nul.ls. LCE, LPI, Limkokwing, and Botho have their own application portals. Apply as early as possible as spaces are limited."
   },
   {
     "id": "faq-2",
-    "keywords": ["lgcse", "grades", "grading", "results", "cosc", "grade"],
-    "answer": "LGCSE grades range from A* (highest) to U (ungraded). A* and A are distinction level. B and C are credit passes. D and E are passes. U means ungraded and is not accepted for entry. Most university programs require a minimum of 5 passes including English and Mathematics."
+    "keywords": ["lgcse", "grades", "grading", "results", "cosc", "grade", "mark", "marks", "pass", "fail"],
+    "answer": "LGCSE grades range from A* (highest) to U (ungraded). A* and A are distinction level. B and C are credit passes. D and E are passes. U means ungraded and is not accepted for university entry. Most university programs require a minimum of 5 passes including English and Mathematics. Your grades determine which programs you qualify for."
   },
   {
     "id": "faq-3",
-    "keywords": ["nul", "national university", "roma"],
-    "answer": "The National University of Lesotho (NUL) is located in Roma, about 35km from Maseru. It is Lesotho's main university offering degrees in Health Sciences, Law, Education, Science, Agriculture, Humanities, and Social Sciences. Contact: registrar@nul.ls or +266 2234 0601."
+    "keywords": ["nul", "national university", "roma", "national university of lesotho"],
+    "answer": "The National University of Lesotho (NUL) is located in Roma, about 35km from Maseru. It is Lesotho's main university offering degrees in Health Sciences, Law, Education, Science, Agriculture, Humanities, and Social Sciences. Entry requirements vary by faculty. Contact: registrar@nul.ls or +266 2234 0601. Website: www.nul.ls"
   },
   {
     "id": "faq-4",
-    "keywords": ["lce", "college of education", "teacher", "teaching"],
-    "answer": "The Lesotho College of Education (LCE) trains primary and secondary school teachers. It offers 3-year diploma programs. You need at least 5 LGCSE passes including English to qualify. Contact: info@lce.ac.ls or +266 2231 2880."
+    "keywords": ["lce", "college of education", "teacher", "teaching", "lesotho college"],
+    "answer": "The Lesotho College of Education (LCE) trains primary and secondary school teachers. It offers 3-year diploma programs in Primary Education, Secondary Education, and Special Education. You need at least 5 LGCSE passes including English to qualify. Contact: info@lce.ac.ls or +266 2231 2880."
   },
   {
     "id": "faq-5",
-    "keywords": ["lpi", "lerotholi", "polytechnic", "engineering", "technical"],
-    "answer": "Lerotholi Polytechnic Institute (LPI) is Lesotho's leading technical institution offering diplomas in Civil Engineering, Electrical Engineering, Mechanical Engineering, Architecture, Information Technology, and Business Studies. Located in Maseru. Contact: info@lpi.ac.ls or +266 2231 2249."
+    "keywords": ["lpi", "lerotholi", "polytechnic", "engineering", "technical", "diploma engineering"],
+    "answer": "Lerotholi Polytechnic Institute (LPI) is Lesotho's leading technical institution offering diplomas in Civil Engineering, Electrical Engineering, Mechanical Engineering, Architecture, Information Technology, and Business Studies. Located in Maseru. Requirements include Mathematics and Physics for engineering programs. Contact: info@lpi.ac.ls or +266 2231 2249."
   },
   {
     "id": "faq-6",
-    "keywords": ["luct", "design", "creative", "media"],
-    "answer": "Limkokwing University in Maseru specialises in creative programs including Graphic Design, Media, Communication, Business, and ICT. It is part of a global network of Limkokwing campuses. Contact: lesotho@limkokwing.edu.my or +266 2231 7000."
+    "keywords": ["luct", "limkokwing", "design", "creative", "media", "graphic", "limkokwing university"],
+    "answer": "Limkokwing University of Creative Technology (LUCT) in Maseru specialises in creative programs including Graphic Design, Media, Communication, Business, and ICT. It is part of a global network of Limkokwing campuses. Most programs require English C minimum. Contact: lesotho@limkokwing.edu.my or +266 2231 7000."
   },
   {
     "id": "faq-7",
-    "keywords": ["botho", "botho university"],
-    "answer": "Botho University offers Business, Computing, and Health Sciences programs. It has campuses across southern Africa and is known for strong graduate employability. Contact: lesotho@bothouniversity.ac.bw or +266 2231 8000."
+    "keywords": ["botho", "botho university", "botho university lesotho"],
+    "answer": "Botho University offers Business Administration, Computing, and Health Sciences programs. It has campuses across southern Africa and is known for strong graduate employability. Programs require English and Mathematics C minimum. Contact: lesotho@bothouniversity.ac.bw or +266 2231 8000."
   },
   {
     "id": "faq-8",
-    "keywords": ["bursary", "bursaries", "scholarship", "funding", "financial aid", "fees"],
-    "answer": "Several bursaries are available for Lesotho students. The Lesotho Government offers the National Manpower Development Secretariat (NMDS) bursary for qualifying students. You can apply through the NMDS office in Maseru. Some universities also offer merit-based scholarships. Contact your school guidance counsellor for more information."
+    "keywords": ["bursary", "bursaries", "scholarship", "funding", "financial aid", "fees", "nmds", "sponsorship", "money", "pay", "afford", "cost"],
+    "answer": "Several bursaries are available for Lesotho students. The National Manpower Development Secretariat (NMDS) offers government bursaries for qualifying students. Apply at the NMDS office in Maseru or visit www.nmds.org.ls. Some universities also offer merit-based scholarships. Private organisations like Lesotho National Development Corporation (LNDC) and mining companies also offer bursaries. Contact your school guidance counsellor for more information."
   },
   {
     "id": "faq-9",
-    "keywords": ["career", "careers", "job", "jobs", "what can i do", "what career"],
-    "answer": "Your LGCSE subjects and grades determine which university programs you qualify for, which in turn shapes your career options. Use the Career Explorer in this app to browse careers by category such as Health, Technology, Law, Education, Business, and Agriculture. Enter your grades to see which programs you qualify for."
+    "keywords": ["career", "careers", "job", "jobs", "what can i do", "what career", "work", "profession", "future", "what job"],
+    "answer": "Your LGCSE subjects and grades determine which university programs you qualify for, which shapes your career options. Health programs lead to nursing, medicine, and health management. Technology programs lead to software development and engineering. Law leads to legal practice. Education leads to teaching. Business leads to management and entrepreneurship. Use the Career Explorer in this app to browse careers by category and enter your grades to see your matches."
   },
   {
     "id": "faq-10",
-    "keywords": ["mathematics", "maths", "math", "fail maths", "no maths"],
-    "answer": "Mathematics is required for most Science, Technology, and Business programs. If you did not pass Mathematics, you may still qualify for programs in Education, Humanities, Creative Arts, and some Social Science programs. Check the requirements for each program in the app."
+    "keywords": ["mathematics", "maths", "math", "fail maths", "no maths", "without maths", "without mathematics"],
+    "answer": "Mathematics is required for most Science, Technology, Business, and Engineering programs. Without Mathematics you can still qualify for programs in Education, Humanities, Creative Arts, Graphic Design, and some Social Science programs. Check each program's specific requirements in this app. If you want to improve your Maths grade, consider repeating the subject."
   },
   {
     "id": "faq-11",
-    "keywords": ["duration", "how long", "years", "how many years"],
-    "answer": "Program durations vary. Diplomas typically take 2 to 3 years. Bachelor degrees take 3 to 4 years. Medicine (MBChB) takes 6 years. Postgraduate programs add 1 to 2 years on top of the undergraduate degree."
+    "keywords": ["duration", "how long", "years", "how many years", "time", "study time", "length"],
+    "answer": "Program durations vary. Diplomas typically take 2 to 3 years. Bachelor degrees take 3 to 4 years. Medicine (MBChB) takes 6 years. Postgraduate diplomas take 1 year. Honours degrees take 1 year after a bachelor degree. Masters degrees take 1 to 2 years. PhD programs take 3 to 5 years."
   },
   {
     "id": "faq-12",
-    "keywords": ["deadline", "closing date", "when to apply", "application date"],
-    "answer": "Application deadlines differ by institution. NUL typically opens applications between July and September for the following academic year. LCE, LPI, Limkokwing, and Botho have their own timelines. It is recommended to apply as early as possible. Contact the specific institution for exact closing dates."
+    "keywords": ["deadline", "closing date", "when to apply", "application date", "when", "open", "application open"],
+    "answer": "Application deadlines differ by institution. NUL typically opens applications between July and September for the following academic year starting in February. LCE, LPI, Limkokwing, and Botho have their own timelines usually between August and October. It is strongly recommended to apply as early as possible. Contact the specific institution directly for exact closing dates."
+  },
+  {
+    "id": "faq-13",
+    "keywords": ["nursing", "nurse", "bsc nursing", "health sciences nursing"],
+    "answer": "BSc Nursing at NUL requires English C, Biology C, Chemistry C, and Mathematics D minimum. The program takes 4 years and leads to registration as a professional nurse. Botho University also offers a BSc in Health Sciences. Nursing is one of the most in-demand careers in Lesotho. Apply early as spaces are very competitive."
+  },
+  {
+    "id": "faq-14",
+    "keywords": ["medicine", "doctor", "mbchb", "medical", "become a doctor"],
+    "answer": "The MBChB (Bachelor of Medicine and Surgery) at NUL requires English B, Biology B, Chemistry B, Mathematics C, and Physics C minimum. This is the most competitive program at NUL. The course takes 6 years. Graduates can practice as medical doctors in Lesotho and the region. Start preparing your sciences subjects as early as possible."
+  },
+  {
+    "id": "faq-15",
+    "keywords": ["law", "llb", "lawyer", "legal", "attorney", "become a lawyer"],
+    "answer": "The LLB (Bachelor of Laws) at NUL requires English B and Mathematics C minimum. The program takes 4 years. Graduates can practice as lawyers, magistrates, legal advisors, or prosecutors. NUL is the only institution in Lesotho offering a law degree. After graduation you must complete the Lesotho Law Society bar exams to practice."
+  },
+  {
+    "id": "faq-16",
+    "keywords": ["computer science", "software", "programming", "coding", "developer", "it degree", "computing"],
+    "answer": "NUL offers BSc Computer Science requiring Mathematics B, English C, and Physics C. LUCT offers BSc ICT requiring Mathematics C and English C. Botho offers BSc Computing requiring Mathematics C and English C. LPI offers Diploma IT requiring Mathematics C and English C. These programs lead to careers in software development, systems analysis, networking, and cybersecurity."
+  },
+  {
+    "id": "faq-17",
+    "keywords": ["english", "fail english", "no english", "english requirement", "without english"],
+    "answer": "English is required for virtually all university programs in Lesotho at a minimum of grade C or D. Without a pass in English it is very difficult to qualify for any program. If you did not pass English, consider repeating the subject or looking into bridging courses offered by some institutions. English proficiency is essential for academic success."
+  },
+  {
+    "id": "faq-18",
+    "keywords": ["biology", "chemistry", "physics", "science", "science subjects"],
+    "answer": "Science subjects are required for Health and some Technology programs. Biology is needed for Nursing, Medicine, and Agriculture. Chemistry is needed for Nursing, Medicine, and Agriculture. Physics is needed for Medicine, Computer Science, and Engineering. If you are interested in health careers make sure to take Biology and Chemistry at LGCSE level."
+  },
+  {
+    "id": "faq-19",
+    "keywords": ["accounting", "commerce", "business", "bcom", "bba", "business degree"],
+    "answer": "For business programs: NUL Bachelor of Commerce requires related subjects. LUCT Bachelor of Commerce requires Mathematics C, English C, and Accounting C. Botho BBA requires English C and Mathematics C. LPI Diploma Business Studies requires English C, Mathematics C, and Accounting D. These programs lead to careers in accounting, finance, marketing, and management."
+  },
+  {
+    "id": "faq-20",
+    "keywords": ["agriculture", "farming", "bsc agriculture", "agricultural"],
+    "answer": "BSc Agriculture at NUL requires Biology C, Chemistry C, English C, and Mathematics D minimum. The 4-year program covers crop science, animal husbandry, soil science, and agricultural economics. Graduates work as agricultural officers, farm managers, and researchers. Agriculture is a vital sector for Lesotho's food security."
+  },
+  {
+    "id": "faq-21",
+    "keywords": ["education", "teaching", "bed", "diploma education", "teacher training", "become a teacher"],
+    "answer": "To become a teacher you can study at LCE (Diploma in Primary or Secondary Education, 3 years) or NUL (Bachelor of Education, 4 years). LCE requires English C and Mathematics D minimum. NUL BEd requires English C and Mathematics C. Teachers are in high demand in Lesotho especially in rural areas. The Ministry of Education employs qualified teachers."
+  },
+  {
+    "id": "faq-22",
+    "keywords": ["civil engineering", "electrical engineering", "mechanical engineering", "engineering diploma"],
+    "answer": "LPI offers 3-year diplomas in Civil, Electrical, and Mechanical Engineering. All require Mathematics C, Physics C, and English D minimum. Civil Engineering focuses on construction and infrastructure. Electrical Engineering covers power systems and electronics. Mechanical Engineering covers machines and manufacturing. LPI graduates are employed in construction, energy, and manufacturing sectors."
+  },
+  {
+    "id": "faq-23",
+    "keywords": ["architecture", "design", "building design", "urban planning"],
+    "answer": "LPI offers a Diploma in Architecture (3 years) requiring Mathematics C, English C, and Art C. LUCT offers Graphic Design requiring English C. Architecture graduates work as architectural technicians and building designers. Graphic Design graduates work in branding, advertising, and digital media."
+  },
+  {
+    "id": "faq-24",
+    "keywords": ["repeat", "resit", "retake", "improve grades", "second chance", "redo"],
+    "answer": "If you did not get the grades you needed, you can resit LGCSE examinations through the Examinations Council of Lesotho (ECOL). You can repeat individual subjects without repeating the entire form. Contact ECOL in Maseru for information on private candidate registration. Some institutions also offer bridging courses or foundation programs for students who narrowly missed entry requirements."
+  },
+  {
+    "id": "faq-25",
+    "keywords": ["distance learning", "online", "part time", "evening", "mature student"],
+    "answer": "NUL offers some programs through distance and part-time study for working adults. Contact the NUL Institute of Extra Mural Studies (IEMS) for available programs. Botho University also offers flexible study options. Online learning is growing in Lesotho but most programs still require some on-campus attendance."
+  },
+  {
+    "id": "faq-26",
+    "keywords": ["hostel", "accommodation", "residence", "where to stay", "housing"],
+    "answer": "NUL has student residences at the Roma campus but spaces are limited and priority is given to first-year students from distant districts. LCE and LPI have limited accommodation. Limkokwing and Botho do not have on-campus residences but can assist students in finding nearby accommodation in Maseru. Apply for accommodation at the same time as your program application."
+  },
+  {
+    "id": "faq-27",
+    "keywords": ["foreign student", "international", "zimbabwe", "south africa", "zambia", "from another country"],
+    "answer": "International students are welcome at Lesotho universities. Additional requirements typically include a study permit, recognition of foreign qualifications by the Lesotho National Council on Higher Education (NCHE), and higher application fees. Contact the admissions office of your chosen institution for specific requirements for international students."
+  },
+  {
+    "id": "faq-28",
+    "keywords": ["how many points", "points", "aggregate", "score", "minimum score"],
+    "answer": "Lesotho universities use subject-specific minimum grades rather than a points system. Each program lists the minimum grade required in each subject. For example, Nursing requires at least a C in English, Biology, and Chemistry. There is no overall aggregate score needed — each subject is assessed individually against the program requirements."
+  },
+  {
+    "id": "faq-29",
+    "keywords": ["what is careerbridge", "about careerbridge", "how does this app work", "app"],
+    "answer": "CareerBridge is a career guidance mobile application designed for Lesotho secondary school students. You enter your LGCSE grades and the app shows you which university programs you qualify for across NUL, LCE, LPI, Limkokwing, and Botho. You can browse programs by category, save favorites, contact universities, and ask questions. The app is completely free to use."
+  },
+  {
+    "id": "faq-30",
+    "keywords": ["contact", "phone number", "email", "address", "find", "location", "where is"],
+    "answer": "University contacts in Lesotho: NUL — registrar@nul.ls, +266 2234 0601, Roma. LCE — info@lce.ac.ls, +266 2231 2880, Maseru. LPI — info@lpi.ac.ls, +266 2231 2249, Maseru. Limkokwing — lesotho@limkokwing.edu.my, +266 2231 7000, Maseru. Botho — lesotho@bothouniversity.ac.bw, +266 2231 8000, Maseru. You can also use the Enquire button on any institution in this app to send a message."
   }
 ]
