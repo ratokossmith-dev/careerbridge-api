@@ -45,6 +45,16 @@ router.get('/', verifyToken, async (req, res, next) => {
     next(error);
   }
 });
+router.get('/all/list', verifyToken, async (req, res, next) => {
+  try {
+    const snapshot = await db.collection('enquiries')
+      .orderBy('sentAt', 'desc').get();
+    const data = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+    res.status(200).json({ success: true, data });
+  } catch (error) {
+    next(error);
+  }
+});
 
 router.put('/:enquiryId/reply', verifyToken, async (req, res, next) => {
   try {
