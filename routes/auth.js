@@ -6,7 +6,15 @@ router.post('/register', async (req, res, next) => {
   try {
     const { name, email, password, district, school } = req.body;
 
-    const userRecord = await auth.createUser({ email, password, displayName: name });
+    if (!email || !password || !name) {
+      return res.status(400).json({ success: false, message: 'Name, email and password are required' });
+    }
+
+    const userRecord = await auth.createUser({
+      email,
+      password,
+      displayName: name,
+    });
 
     await db.collection('users').doc(userRecord.uid).set({
       name,
@@ -18,15 +26,13 @@ router.post('/register', async (req, res, next) => {
       createdAt: new Date().toISOString(),
     });
 
-    const token = await auth.createCustomToken(userRecord.uid);
-
     res.status(201).json({
       success: true,
       message: 'Account created successfully',
       uid: userRecord.uid,
-      token,
     });
   } catch (error) {
+    console.error('Register error:', error.message);
     next(error);
   }
 });
@@ -34,10 +40,24 @@ router.post('/register', async (req, res, next) => {
 router.post('/login', async (req, res, next) => {
   try {
     const { email } = req.body;
+
+    if (!email) {
+      return res.status(400).json({ success: false, message: 'Email is required' });
+    }
+
     const user = await auth.getUserByEmail(email);
-    const token = await auth.createCustomToken(user.uid);
-    res.status(200).json({ success: true, uid: user.uid, token });
+
+    res.status(200).json({
+      success: true,
+      uid: user.uid,
+      email: user.email,
+      name: user.displayName || '',
+    });
   } catch (error) {
+    console.error('Login error:', error.message);
+    if (error.code === 'auth/user-not-found') {
+      return res.status(401).json({ success: false, message: 'No account found with this email' });
+    }
     next(error);
   }
 });
